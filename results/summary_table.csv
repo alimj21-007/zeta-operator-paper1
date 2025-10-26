@@ -1,0 +1,9 @@
+filename,type,description,status
+eigenvalues.csv,CSV,"Top 5 or 10 eigenvalues of the zeta-inspired operator",✅ Ready
+eigenvectors.csv,CSV,"Corresponding eigenvectors (each column is one eigenvector)",✅ Ready
+eigenpairs.csv,CSV,"Combined version with eigenvalue and corresponding eigenvector in one table",✅ Ready
+convergence_plot.png,PNG,"Convergence plot of Trace and HS norm as grid size increases",✅ Ready
+convergence_metrics.csv,CSV,"Table of Trace and HS norm values for different grid sizes",✅ Ready
+heatmap_kernel.png,PNG,"Heatmap of the kernel matrix (x+y)^(-1.5)",✅ Ready
+kernel_sample.csv,CSV,"50x50 sample of the kernel matrix for numerical inspection",✅ Ready
+eigen_plots.html,HTML,"Interactive page with eigenvalue scatter plot and eigenvector line plots",✅ Ready
