@@ -1,0 +1,11 @@
+[2025-10-26T15:20:00] eigenvalues.csv - created - Top eigenvalues of zeta-inspired operator computed and saved
+[2025-10-26T15:20:05] eigenvectors.csv - created - Corresponding eigenvectors saved with correct formatting
+[2025-10-26T15:20:10] eigenpairs.csv - created - Combined table of eigenvalues and eigenvectors generated
+[2025-10-26T15:20:20] convergence_plot.png - created - Convergence of Trace and HS norm plotted
+[2025-10-26T15:20:25] convergence_metrics.csv - created - Trace and HS norm values for multiple grid sizes saved
+[2025-10-26T15:20:30] heatmap_kernel.png - created - Heatmap of kernel matrix (x+y)^(-1.5) generated
+[2025-10-26T15:20:35] kernel_sample.csv - created - 50x50 sample of kernel matrix exported
+[2025-10-26T15:20:40] summary_table.csv - created - Summary of all generated outputs compiled
+[2025-10-26T15:20:45] eigen_plots.html - created - Interactive plots for eigenvalues and eigenvectors built
+[2025-10-26T15:20:50] config.json - created - Configuration file with computation and graphics parameters saved
+[2025-10-26T15:20:55] log.txt - created - Log file initialized to track output generation
