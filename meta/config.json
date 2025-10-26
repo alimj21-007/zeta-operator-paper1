@@ -1,0 +1,25 @@
+{
+  "grid_size": 500,
+  "kernel": "(x+y)^(-s)",
+  "s": 1.5,
+  "integration": "trapezoid",
+  "domain": [0.01, 10],
+  "num_eigenpairs": 10,
+  "graphics": {
+    "colormap": "viridis",
+    "plot_style": "line",
+    "dpi": 150,
+    "font_size": 12
+  },
+  "output_files": {
+    "eigenvalues": "eigenvalues.csv",
+    "eigenvectors": "eigenvectors.csv",
+    "eigenpairs": "eigenpairs.csv",
+    "convergence_plot": "convergence_plot.png",
+    "convergence_metrics": "convergence_metrics.csv",
+    "heatmap_kernel": "heatmap_kernel.png",
+    "kernel_sample": "kernel_sample.csv",
+    "summary_table": "summary_table.csv",
+    "interactive_plots": "eigen_plots.html"
+  }
+}
